@@ -1,0 +1,2 @@
+# TestAngularCore
+Only test projects
